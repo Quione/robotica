@@ -6,5 +6,5 @@ int main (){
 	int b;
 	
 	scanf("%i %i" , &a , &b);
-		printf("o valor escrito foi %i %i" , a , b);
+		printf("o valor escrito foi %i, e %i" , a , b);
 }
